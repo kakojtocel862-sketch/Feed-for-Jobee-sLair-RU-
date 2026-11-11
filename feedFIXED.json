@@ -1,77 +1,110 @@
-{
-  "name": "Feeed RU",
-  "description": "Фиды с играми на русском языке",
+{{
+  "version": 1,
+  "name": "My Personal Catalog",
   "games": [
     {
-      "name": "Call of Duty: Modern Warfare 2 Campaign Remastered",
-      "title_id": "CUSA10911",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "Shooter",
-      "size": "42.47 GB",
-      "min_fw": "7.50",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:PKORTD3IU5VFT2FFR5LP23I5YHQBQIKH&dn=EP0002-CUSA10911_00-CODMW2RTHEGAME01-A0100-V0100.pkg&xl=45604536320&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Официальная сюжетная кампания легендарного шутера MW2, полностью обновленная с улучшенными текстурами и анимацией."
+      "id": "CUSA10911",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:PKORTD3IU5VFT2FFR5LP23I5YHQBQIKH&dn=EP0002-CUSA10911_00-CODMW2RTHEGAME01-A0100-V0100.pkg&xl=45604536320&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+          "sizeBytes": 45604536320,
+          "version": "01.00"
+        }
+      ]
     },
     {
-      "name": "Cult of the Lamb",
-      "title_id": "CUSA25232",
-      "version": "01.32",
-      "app_version": "01.32",
-      "type": "Game",
-      "category": "Roguelike / Strategy",
-      "size": "1.6 GB",
-      "min_fw": "9.00",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:XBKM5SPL5N4L6NB3IJGVEKJQYPAFYCKP&dn=%5BPS4%5D%20Cult%20of%20the%20Lamb%201.32"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "В роли одержимого ягнёнка вам предстоит создать собственный культ в землях лжепророков, совершая вылазки ради ресурсов и авторитета."
+      "id": "CUSA25232",
+      "title": "Cult of the Lamb",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:XBKM5SPL5N4L6NB3IJGVEKJQYPAFYCKP&dn=%5BPS4%5D%20Cult%20of%20the%20Lamb%201.32",
+          "sizeBytes": 1717986918,
+          "version": "01.32"
+        }
+      ]
     },
     {
-      "name": "Ready or Not",
-      "title_id": "PPSA18605",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "Tactical Shooter",
-      "size": "30.0 GB",
-      "min_fw": "13.60",
-      "status": "13.60 Ready",
-      "links": [
-        "magnet:?xt=urn:btih:4VIY5GWP3X5LE2JFGSYJCRO6FVLOOFHS&dn=Ready%20or%20Not"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Реалистичный и хардкорный тактический шутер от первого лица, посвященный опасным операциям спецназа SWAT."
+      "id": "PPSA18605",
+      "title": "Ready or Not",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:4VIY5GWP3X5LE2JFGSYJCRO6FVLOOFHS&dn=Ready%20or%20Not",
+          "sizeBytes": 32212254720,
+          "version": "01.00"
+        }
+      ]
     },
     {
-      "name": "Far Cry 5",
-      "title_id": "CUSA05961",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "Open World / Action",
-      "size": "38.6 GB",
-      "min_fw": "5.05",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:AVRJ563K2VNFJWNUHUE6MAC2KNUDERRA&dn=Far%20CRY%205&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Добро пожаловать в округ Хоуп штата Монтана — земли свободных и смелых, захваченные фанатиками культа Судного дня."
+      "id": "CUSA05961",
+      "title": "Far Cry 5",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:AVRJ563K2VNFJWNUHUE6MAC2KNUDERRA&dn=Far%20CRY%205&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+          "sizeBytes": 41446432768,
+          "version": "01.00"
+        }
+      ]
     },
     {
-      "name": "Battlefield Hardline",
+      "id": "CUSA00625",
+      "title": "Battlefield Hardline",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:SRAIHVQJODBKKT47KVAIFV62YCGUKCVD&dn=Battlefield%20Hardline%20v1.09%20by%20MorpheusGames&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann",
+          "sizeBytes": 48318382080,
+          "version": "01.09"
+        }
+      ]
+    },
+    {
+      "id": "CUSA14493",
+      "title": "Borderlands: Game of the Year Edition",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:MJBYFK5V3XH2R67VKPQPDKOEO5KHOEB3&dn=Borderlands%20Game%20of%20The%20Year",
+          "sizeBytes": 16106127360,
+          "version": "01.00"
+        }
+      ]
+    },
+    {
+      "id": "CUSA01446",
+      "title": "Borderlands: The Handsome Collection",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:5GHL22EMACZ7XCW42AC6ISR4KMOWHC7V&dn=Borderlands%20The%20Handsome%20Collection&tr=http%3A%2F%2Fbt.t-ru.org%2Fann",
+          "sizeBytes": 36507222016,
+          "version": "01.00"
+        }
+      ]
+    },
+    {
+      "id": "CUSA12204",
+      "title": "Borderlands 3 (Ultimate Edition RUS)",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:H6FVN24LIEK4XTVDKSBUXLBWR64XPDVM&dn=Borderlands%203%20Ultimate%20Edition%20RUS&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann",
+          "sizeBytes": 42949672960,
+          "version": "01.00"
+        }
+      ]
+    },
+    {
+      "id": "CUSA01347",
+      "title": "PAYDAY 2: Crimewave Edition",
+      "releases": [
+        {
+          "url": "magnet:?xt=urn:btih:CQAPTZWUYSBBFSN5T4ZUUYRNYPQHSANM&dn=PAYDAY%202%20Crimewave%20Edition",
+          "sizeBytes": 37580963840,
+          "version": "01.00"
+        }
+      ]
+    }
+  ]
+}
+
+ame": "Battlefield Hardline",
       "title_id": "CUSA00625",
       "version": "01.09",
       "app_version": "01.09",
