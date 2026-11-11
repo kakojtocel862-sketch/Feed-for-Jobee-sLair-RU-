@@ -1,4 +1,4 @@
-{{
+{
   "version": 1,
   "name": "My Personal Catalog",
   "games": [
@@ -100,93 +100,6 @@
           "version": "01.00"
         }
       ]
-    }
-  ]
-}
-
-ame": "Battlefield Hardline",
-      "title_id": "CUSA00625",
-      "version": "01.09",
-      "app_version": "01.09",
-      "type": "Game",
-      "category": "Shooter",
-      "size": "45.0 GB",
-      "min_fw": "5.05",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:SRAIHVQJODBKKT47KVAIFV62YCGUKCVD&dn=Battlefield%20Hardline%20v1.09%20by%20MorpheusGames&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Криминальная драма в стиле полицейских сериалов от первого лица, где вам предстоит вести войну на улицах Лос-Анджелеса и Майами."
-    },
-    {
-      "name": "Borderlands: Game of the Year Edition",
-      "title_id": "CUSA14493",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "RPG / Shooter",
-      "size": "15.0 GB",
-      "min_fw": "6.50",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:MJBYFK5V3XH2R67VKPQPDKOEO5KHOEB3&dn=Borderlands%20Game%20of%20The%20Year"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Классический шутер-лутер с ролевыми элементами. Обновленная версия оригинальной игры со всеми дополнениями."
-    },
-    {
-      "name": "Borderlands: The Handsome Collection",
-      "title_id": "CUSA01446",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "RPG / Shooter",
-      "size": "34.0 GB",
-      "min_fw": "5.05",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:5GHL22EMACZ7XCW42AC6ISR4KMOWHC7V&dn=Borderlands%20The%20Handsome%20Collection&tr=http%3A%2F%2Fbt.t-ru.org%2Fann"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Антология, включающая культовые Borderlands 2 и Borderlands: The Pre-Sequel со всеми существующими DLC."
-    },
-    {
-      "name": "Borderlands 3 (Ultimate Edition RUS)",
-      "title_id": "CUSA12204",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "RPG / Shooter",
-      "size": "40.0 GB",
-      "min_fw": "7.00",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:H6FVN24LIEK4XTVDKSBUXLBWR64XPDVM&dn=Borderlands%203%20Ultimate%20Edition%20RUS&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Продолжение знаменитого безумного шутера. Полное издание Ultimate Edition со всеми сезонными пропусками и русской локализацией."
-    },
-    {
-      "name": "PAYDAY 2: Crimewave Edition",
-      "title_id": "CUSA01347",
-      "version": "01.00",
-      "app_version": "01.00",
-      "type": "Game",
-      "category": "Shooter / Co-op",
-      "size": "35.0 GB",
-      "min_fw": "5.05",
-      "status": "FFPKG",
-      "links": [
-        "magnet:?xt=urn:btih:CQAPTZWUYSBBFSN5T4ZUUYRNYPQHSANM&dn=PAYDAY%202%20Crimewave%20Edition"
-      ],
-      "icon": "https://githubusercontent.com",
-      "screenshots": [],
-      "description": "Кооперативный симулятор ограблений на четырех игроков, где вам предстоит надеть маски легендарной банды Payday."
     }
   ]
 }
